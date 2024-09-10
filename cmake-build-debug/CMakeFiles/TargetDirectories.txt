@@ -1,0 +1,3 @@
+/Users/frankbubbico/CLionProjects/HunterProject1/cmake-build-debug/CMakeFiles/HunterProject1.dir
+/Users/frankbubbico/CLionProjects/HunterProject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frankbubbico/CLionProjects/HunterProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
